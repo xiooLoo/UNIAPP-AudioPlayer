@@ -2,4 +2,4 @@
 基于uniapp多端开发框架实现的一个自定义音乐播放器
 
 **效果预览**
-![uniapp audio player]('../static/preview-a.png')
+![uniapp audio player](https://github.com/xiooLoo/UNIAPP-AudioPlayer/blob/dev/static/preview-a.png)
